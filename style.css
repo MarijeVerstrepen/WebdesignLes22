@@ -1,0 +1,12 @@
+img {
+    width: 50%;
+}
+
+footer {
+    background-color: lightgray;
+    min-height: 200px;
+}
+/*overschrijving bootstrap met css */
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
